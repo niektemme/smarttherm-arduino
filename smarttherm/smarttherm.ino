@@ -3,7 +3,7 @@
  * by Niek Temme http://niektemme.com
  *
  * smart thermostat - arduino part
- * Documentation: http://niektemme.com/  @@to do
+ * Documentation: http://niektemme.com/2015/07/31/smart-thermostat/ @@to do
  * 
  */
 #include <XBee.h>
