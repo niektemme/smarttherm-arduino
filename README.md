@@ -26,12 +26,12 @@ The Arduino sketch in the smarttherm subfolder of this repository can be uploade
 ## Acknowledgements
 The code used in this project is often based on wonderful and clear written examples written by other people. I would especially like to thank the following people (alphabetical order).
 
-Aravindu Sandela - bigdatahandler - http://bigdatahandler.com
-Dave - Desert Home - http://www.desert-home.com
-Lady Ada - Adafruit - http://www.adafruit.com
-Lars George - HBase definitive guide - http://www.larsgeorge.com
-Luckily Seraph Chutium - ABC Networks Blog - http://www.abcn.net
-Michael Bouvy - http://michael.bouvy.net
-Paco Nathan - O'Reilly Media - http://iber118.com/pxn/
-Robert Faludi - Digi International - http://www.faludi.com
-Stephen Phillips - The University of Southampton, IT Innovation Centre  - http://blog.scphillips.com
+- Aravindu Sandela - bigdatahandler - http://bigdatahandler.com
+- Dave - Desert Home - http://www.desert-home.com
+- Lady Ada - Adafruit - http://www.adafruit.com
+- Lars George - HBase definitive guide - http://www.larsgeorge.com
+- Luckily Seraph Chutium - ABC Networks Blog - http://www.abcn.net
+- Michael Bouvy - http://michael.bouvy.net
+- Paco Nathan - O'Reilly Media - http://iber118.com/pxn/
+- Robert Faludi - Digi International - http://www.faludi.com
+- Stephen Phillips - The University of Southampton, IT Innovation Centre  - http://blog.scphillips.com
