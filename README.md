@@ -1,10 +1,10 @@
 # Smart Thermostat - Arduino
 
-This repository is accompanying the blog post [Making your own smart 'machine learning' thermostat using Arduino, AWS, HBase, Spark, Raspberry PI and XBee](http://niektemme.com/2015/07/31/smart-thermostat/ @@to do). This blog post describes building and programming your own smart thermostat. 
+This repository accompanies the blog post [Making your own smart 'machine learning' thermostat using Arduino, AWS, HBase, Spark, Raspberry PI and XBee](http://niektemme.com/2015/08/09/smart-thermostat/). This blog post describes building and programming your own smart thermostat. 
 
 This smart thermostat is based on three feedback loops. 
 - **I. The first loop is based on an Arduino directly controlling the boiler. (this repostiory)**
-- II. The second feedback loop is a Raspberry PI that receives temperature data en boiler status information from the Arduino and sends instructions to the Arduino. [Smart Thermostat - Raspberry PI Repository](https://github.com/niektemme/smarttherm-rpi)
+- II. The second feedback loop is a Raspberry PI that receives temperature data and boiler status information from the Arduino and sends instructions to the Arduino. [Smart Thermostat - Raspberry PI Repository](https://github.com/niektemme/smarttherm-rpi)
 - II. The third and last feedback loop is a server in the Cloud. This server uses machine learning to optimize the boiler control model that is running on the Raspberry PI. [Smart Thermostat - AWS - HBase - Spark Repository](https://github.com/niektemme/smarttherm-aws-hbase-spark)
 
 ![Smart thermostat overview - three feedback loops](https://niektemme.files.wordpress.com/2015/07/schema_loop3.png)
@@ -12,7 +12,7 @@ This smart thermostat is based on three feedback loops.
 ## Installation & Setup
 
 ### Hardware setup
-The hardware setup is described in detail in the [blog post]( http://niektemme.com/2015/07/31/smart-thermostat/ @@) mentioned above. 
+The hardware setup is described in detail in the [blog post](http://niektemme.com/2015/08/09/smart-thermostat/) mentioned above. 
 
 ### Dependencies
 The following Arduino libraries are required
@@ -21,10 +21,10 @@ The following Arduino libraries are required
 - XBee - [Google code page](https://code.google.com/p/xbee-arduino/)
 
 ### Installation
-The Arduino sketch in the smarttherm subfolder of this repository can be uploaded to the arduino as with any Arduino sketch.
+The Arduino sketch in the smarttherm subfolder of this repository can be uploaded to the Arduino as with any Arduino sketch.
 
 ## Acknowledgements
-The code used in this project is often based on wonderful and clear written examples written by other people. I would especially like to thank the following people (alphabetical order).
+The code used in this project is often based on wonderful and clearly written examples written by other people. I would especially like to thank the following people (alphabetical order).
 
 - Aravindu Sandela - bigdatahandler - http://bigdatahandler.com
 - Dave - Desert Home - http://www.desert-home.com
